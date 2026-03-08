@@ -1,0 +1,1 @@
+![Rythme bégayant sur voix](RITA0000.png)
