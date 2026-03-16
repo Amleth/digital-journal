@@ -17,6 +17,8 @@
 - https://www.soundtoys.com/product/decapitator/
 - https://babyaud.io/freebies
 - https://babyaud.io/super-vhs-multi-fx-plugin
+- https://www.groovezing.com/en/plugins/speaknspell80.php
+- https://soniccharge.com/bitspeek
 
 ## Mix
 
