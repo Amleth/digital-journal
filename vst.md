@@ -22,6 +22,10 @@
 
 - https://babyaud.io/smooth-operator-plugin
 
+## Modulation
+
+- https://www.adamszabo.com/vstplugins/phazor/
+
 ## Reverb
 
 - https://babyaud.io/crystalline
