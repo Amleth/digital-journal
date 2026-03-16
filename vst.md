@@ -1,18 +1,18 @@
 # VST
 
-## Bundles
+## 🌑 Bundles
 
 - https://www.soundtoys.com/product/soundtoys-5/
 
-## Compression
+## 🗜️ Compression
 
 - https://babyaud.io/freebies
 
-## Eq
+## 🗻 Eq
 
 - https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in
 
-## Lo-fi
+## 💾👾 Lo-fi
 
 - https://www.soundtoys.com/product/decapitator/
 - https://babyaud.io/freebies
@@ -20,15 +20,15 @@
 - https://www.groovezing.com/en/plugins/speaknspell80.php
 - https://soniccharge.com/bitspeek
 
-## Mix
+## 🎛️ Mix
 
 - https://babyaud.io/smooth-operator-plugin
 
-## Modulation
+## 🛤️ Modulation
 
 - https://www.adamszabo.com/vstplugins/phazor/
 
-## Reverb
+## 📡 Reverb
 
 - https://babyaud.io/crystalline
 - https://www.soundtoys.com/product/superplate/
