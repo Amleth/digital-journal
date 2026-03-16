@@ -12,7 +12,7 @@
 
 - https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in
 
-## 💾👾 Lo-fi
+## 💾 Lo-fi
 
 - https://www.soundtoys.com/product/decapitator/
 - https://babyaud.io/freebies
