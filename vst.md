@@ -31,3 +31,4 @@
 - https://babyaud.io/crystalline
 - https://www.soundtoys.com/product/superplate/
 - https://www.soundtoys.com/product/little-plate/
+- https://www.adamszabo.com/vstplugins/solaris/
